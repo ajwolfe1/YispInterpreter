@@ -6,6 +6,7 @@ gcc lisp.c
 # To Run lisp.c
 ./a.exe
 
+# Test Cases
 Test cases are already in file and ready to go if you want to run lisp.c
 
 # Tests
