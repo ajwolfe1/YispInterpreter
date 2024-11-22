@@ -1,5 +1,3 @@
-# YispInterpreter
-
 # To Build lisp.c
 gcc lisp.c
 
