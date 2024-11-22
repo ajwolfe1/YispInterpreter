@@ -12,6 +12,10 @@ gcc lisp.c
 # Test Cases
 Test cases are already in file and ready to go if you want to run lisp.c
 
+Test case outputs go to TestOutput.txt and, on my computer, makes the file if not already included in directory
+
+If there is an issue with the output going to an outfile there is another instance commented out that will print to the terminal
+
 # Tests
 Test 1 (Add 2 + 3): pass
 
