@@ -1,8 +1,13 @@
 # To Build lisp.c
+<pre>
 gcc lisp.c
+</pre>
 
 # To Run lisp.c
+<pre>
 ./a.exe
+</pre>
+
 
 # Test Cases
 Test cases are already in file and ready to go if you want to run lisp.c
