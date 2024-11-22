@@ -1,5 +1,13 @@
 # YispInterpreter
 
+# To Build lisp.c
+gcc lisp.c
+
+# To Run lisp.c
+./a.exe
+
+Test cases are already in file and ready to go if you want to run lisp.c
+
 # Tests
 Test 1 (Add 2 + 3): pass
 
@@ -36,11 +44,3 @@ Test 16 (if (and t t) 42 0): pass
 Test 17 (cond ((nil 5) (t 10) (t 15))): pass
 
 Test 18 (cond ((t 5) (t 10) (nil 15))): pass
-
-# To Build lisp.c
-gcc lisp.c
-
-# To Run lisp.c
-./a.exe
-
-Test cases are already in file and ready to go if you want to run lisp.c
