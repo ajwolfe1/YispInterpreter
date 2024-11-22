@@ -70,3 +70,5 @@ Test 27 (quote a symbol): pass
 Test 28 (quote a number): pass
 
 Test 29 (quote a list): pass
+
+Test 30 (simple lambda creation): pass
