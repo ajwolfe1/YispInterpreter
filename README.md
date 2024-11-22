@@ -8,6 +8,10 @@ gcc lisp.c
 ./a.exe
 </pre>
 
+# Sprints 
+All Sprints are not meant to be build and/or run
+
+Sprint 6 was the last sprint before fixing errors and ensuring the functions run as intended
 
 # Test Cases
 Test cases are already in file and ready to go if you want to run lisp.c
