@@ -10,15 +10,20 @@ Test 9 (Greater Than 5 > 3): pass
 Test 10 (Less Than 2 < 5): pass
 Test 11 (Greater Equal 5 >= 5): pass
 Test 12 (Less Equal 3 <= 3): pass
-Test 13 (if true): pass
-Test 14 (if false - nil): pass
-Test 15 (if false - 0): pass
-Test 16 (if (and t t) 42 0): pass
-Test 17 (cond ((nil 5) (t 10) (t 15))): pass
-Test 18 (cond ((t 5) (t 10) (nil 15))): pass
-Test 19 (set and get a symbol): pass
-Test 20 (set a symbol to another symbol's value): pass
-Test 21 (update a symbol's value): pass
-Test 22 (quote a symbol): pass
-Test 23 (quote a number): pass
-Test 24 (quote a list): pass
+Test 13 (eq two equal numbers): pass
+Test 14 (eq two different numbers): pass
+Test 15 (eq two equal symbols): pass
+Test 16 (eq two different symbols): pass
+Test 17 (eq a number and a symbol): pass
+Test 18 (if true): pass
+Test 19 (if false - nil): pass
+Test 20 (if false - 0): pass
+Test 21 (if (and t t) 42 0): pass
+Test 22 (cond ((nil 5) (t 10) (t 15))): pass
+Test 23 (cond ((t 5) (t 10) (nil 15))): pass
+Test 24 (set and get a symbol): pass
+Test 25 (set a symbol to another symbol's value): pass
+Test 26 (update a symbol's value): pass
+Test 27 (quote a symbol): pass
+Test 28 (quote a number): pass
+Test 29 (quote a list): pass
