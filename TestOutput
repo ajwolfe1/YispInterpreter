@@ -16,3 +16,9 @@ Test 15 (if false - 0): pass
 Test 16 (if (and t t) 42 0): pass
 Test 17 (cond ((nil 5) (t 10) (t 15))): pass
 Test 18 (cond ((t 5) (t 10) (nil 15))): pass
+Test 19 (set and get a symbol): pass
+Test 20 (set a symbol to another symbol's value): pass
+Test 21 (update a symbol's value): pass
+Test 22 (quote a symbol): pass
+Test 23 (quote a number): pass
+Test 24 (quote a list): pass
