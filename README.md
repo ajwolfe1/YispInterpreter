@@ -20,6 +20,9 @@ Test case outputs go to TestOutput.txt and, on my computer, makes the file if no
 
 If there is an issue with the output going to an outfile there is another instance commented out that will print to the terminal
 
+# Authors
+Drew Wolfe and Hunter Reinhart
+
 # Tests
 Test 1 (Add 2 + 3): pass
 
